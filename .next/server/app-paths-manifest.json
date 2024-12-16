@@ -1,1 +1,7 @@
-{}
+{
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/blog-details/page": "app/blog-details/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/about/page": "app/about/page.js"
+}
