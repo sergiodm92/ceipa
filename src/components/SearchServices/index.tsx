@@ -2,8 +2,9 @@
 import React, { useState, useEffect } from "react";
 import SectionTitle from "../Common/SectionTitle";
 import SingleCompany from "./SingleCompany";
-import searchData from "./searchData";
 import Pagination from "../Common/Pagination"; // Asegúrate de importar el componente de paginación
+import dataJson from "../../data/companies.json"
+import { Company } from "@/types/search";
 
 const SearchServices = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -22,7 +23,7 @@ const SearchServices = () => {
       }
     };
 
-    handleResize(); // Ajustar al cargar la página
+      handleResize(); // Ajustar al cargar la página
     window.addEventListener("resize", handleResize); // Escuchar cambios en el tamaño de la ventana
 
     return () => {
@@ -30,8 +31,30 @@ const SearchServices = () => {
     };
   }, []);
 
+  const mapper = () => {
+
+    const dataMap = dataJson.data.map((item, index)=>{
+
+      const {company, type, cuit, contact_name, phone, email, description} = item
+
+      return {
+        id: index,
+        name: company || "Empresa",
+        logo: "https://www.azumuta.com/wp-content/uploads/2024/05/finished-pipe-transportation-by-overhead-crane-2048x1365-1-1024x683.jpeg",
+        industry: type || "Industria",
+        description: description || "Descripción",
+        phone: phone?.toString() || "Teléfono",
+        website: email || "Email"
+      }
+
+    })
+
+    return dataMap
+  }
+  const companyData : Company[] = mapper();
+
   // Filtrar las empresas por nombre o industria en tiempo real según el término de búsqueda
-  const filteredData = searchData.filter((company) =>
+  const filteredData = companyData.filter((company) =>
     company.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
     company.industry.toLowerCase().includes(searchTerm.toLowerCase())
   );
