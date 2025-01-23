@@ -40,7 +40,7 @@ const SearchServices = () => {
       return {
         id: index,
         name: company || "Empresa",
-        logo: "https://www.azumuta.com/wp-content/uploads/2024/05/finished-pipe-transportation-by-overhead-crane-2048x1365-1-1024x683.jpeg",
+        logo: "https://gingersauce.co/wp-content/uploads/2020/12/pasted-image-0-2-3-1024x950.png",
         industry: type || "Industria",
         description: description || "Descripción",
         phone: phone?.toString() || "Teléfono",

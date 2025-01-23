@@ -6,7 +6,7 @@ const SingleCompany = ({ company }: { company: Company }) => {
   const { name, logo, industry, description, phone, website } = company;
   return (
     <>
-      <div className="group relative min-h-[35rem] overflow-hidden rounded-sm bg-white shadow-one duration-300 hover:shadow-two dark:bg-dark dark:hover:shadow-gray-dark flex flex-col justify-between">
+      <div className="group relative min-h-[46rem] overflow-hidden rounded-sm bg-white shadow-one duration-300 hover:shadow-two dark:bg-dark dark:hover:shadow-gray-dark flex flex-col justify-start">
         <Link
           href="/blog-details"
           className="relative block aspect-[37/22] w-full"
@@ -26,28 +26,28 @@ const SingleCompany = ({ company }: { company: Company }) => {
             </Link>
           </h3>
           <p className="mb-6 border-b border-body-color border-opacity-10 pb-6 text-base font-medium text-body-color dark:border-white dark:border-opacity-10">
-            {description}
+            {description.slice(0, 400)}...
           </p>
           <div className="flex items-center">
-            <div className="mr-5 flex items-center border-r border-body-color border-opacity-10 pr-5 dark:border-white dark:border-opacity-10 xl:mr-3 xl:pr-3 2xl:mr-5 2xl:pr-5">
-              <div className="mr-4">
-                <div className="relative h-10 w-10 overflow-hidden rounded-full">
-                  <img src="https://gingersauce.co/wp-content/uploads/2020/12/pasted-image-0-2-3-1024x950.png" alt="author" />
+              <div className="mr-5 flex items-center border-body-color border-opacity-10 pr-5 dark:border-white dark:border-opacity-10 xl:mr-3 xl:pr-3 2xl:mr-5 2xl:pr-5">
+                <div className="mr-4">
+                  <div className="relative h-10 w-10 overflow-hidden rounded-full">
+                    <img src={logo} alt="author" />
+                  </div>
                 </div>
+                <div className="w-full">
+                  <h4 className="mb-1 text-sm font-medium text-dark dark:text-white">
+                  Contacto
+                  </h4>
+                  <p className="text-xs text-body-color">{website}</p>
+                </div> 
               </div>
-              {/* <div className="w-full">
-                <h4 className="mb-1 text-sm font-medium text-dark dark:text-white">
-                  By {author.name}
-                </h4>
-                <p className="text-xs text-body-color">{author.designation}</p>
-              </div> */}
-            </div>
-            {/* <div className="inline-block">
+             {/* <div className="inline-block">
               <h4 className="mb-1 text-sm font-medium text-dark dark:text-white">
-                Date
+                Email
               </h4>
-              <p className="text-xs text-body-color">{publishDate}</p>
-            </div> */}
+              <p className="text-xs text-body-color">{website}</p>
+            </div>  */}
           </div>
         </div>
       </div>
