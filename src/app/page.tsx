@@ -7,7 +7,7 @@ import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import SearchServices from "@/components/SearchServices";
-import Testimonials from "@/components/Testimonials";
+import Testimonials from "@/components/News";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 
