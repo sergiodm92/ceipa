@@ -1,69 +1,69 @@
 {
-    "data":[
-     {
+  "data": [
+    {
       "company": "AFS CONSULTORA DE NEGOCIOS",
       "type": "Consultora",
       "cuit": "30-71154250-3",
       "contact_name": "García Rolón Mariana",
-      "phone": "2994969080 \/ 2994299777 ",
+      "phone": "2994969080 / 2994299777",
       "email": "mariana.garcia@afsconsultora.com.ar",
-      "description": "1) Diseño, Ingeniería, Construcción, Mantenimiento de Sistemas de protección c\/incendio. Venta de productos - 2) Asesoramiento en Seguridad e Higiene (Análisis de Riesgo\/ Estudios Higiénicos, etc) - 3)Asesoramiento en Implementación y mantenimientos de Sistemas de gestión- Gestión económica financiera - Planificación estratégica"
-     },
-     {
+      "description": "Diseño, ingeniería, construcción y mantenimiento de sistemas de protección contra incendios. Venta de productos relacionados. Asesoramiento en seguridad e higiene, incluyendo análisis de riesgos y estudios higiénicos. Consultoría en implementación y mantenimiento de sistemas de gestión, gestión económica-financiera y planificación estratégica."
+    },
+    {
       "company": "ALMACARGO",
-      "type": "Logistica",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71632968-9",
       "contact_name": "AGUSTINA PANIZZOLI",
-      "phone": 2995307326,
+      "phone": "2995307326",
       "email": "almacargo@outlook.com",
-      "description": "Servicio de personal para base"
-     },
-     {
-      "company": "BM INSPECCIONES ",
-      "type": "inspeccion - mantenimiento",
+      "description": "Servicio de personal para base, incluyendo la gestión integral de almacenes, control de inventarios, recepción y despacho de mercancías, así como la optimización de procesos logísticos para asegurar la eficiencia y efectividad en la cadena de suministro. Además, ofrecemos soluciones personalizadas para el almacenamiento y manejo de productos específicos, garantizando la seguridad y el cumplimiento de normativas vigentes."
+    },
+    {
+      "company": "BM INSPECCIONES",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-71066363-3",
       "contact_name": "Hernán Robinson",
       "phone": "299-5229837",
       "email": "hrobinson@bminspecciones.com",
       "description": "Servicio de inspección de elementos de izaje. Inspección de conjuntos de fondo de pozo y herramientas de terminación y perforación para la industria del petróleo y gas. Inspección de equipos y líneas de superficie. Servicio de Ensayos no destructivos (líquidos penetrantes, partículas magnetizables, ultrasonido y phased array, gammagrafía industrial). Servicio de Pruebas hidrostáticas. Inspección y reparación de válvulas.  Servicio de inspección de barras de perforación y BHA bajo DS-1. Servicio de inspección de tanques cisternas homologados bajo resolución 414\/21 de la Subsecretaría de Energía con registro 01-414-2021. Servicio de tratamiento térmico. Servicio de arenado y pintura. Identificación mediante estampado superficial o generación y colocación de precintos tipo fleje, identificación mediante chapas identificatorias. Servicios de Obra Civil."
-     },
-     {
+    },
+    {
       "company": "CIMO",
-      "type": "salud",
-      "cuit": 30717361802,
+      "type": "Salud y Seguridad",
+      "cuit": "30717361802",
       "contact_name": "ALDANA HANNDORF",
       "phone": "2923 694680",
       "email": "ahanndorf@cimosalud.com",
       "description": "Clínica de servicios medicos, oftalmología, traumatología, pediatría, cardiología, ecografías, radiología, enfermería, laboratorio análisis clínicos, cirugías ambulatorias, dermatología, urología,  ginecología. Convenio MEOP."
-     },
-     {
-      "company": "CODESIN  SA",
-      "type": "servicios industriales -  ingenieria",
+    },
+    {
+      "company": "CODESIN SA",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-64556835-0",
       "contact_name": "Alejandro Castañeiras",
-      "phone": 2995289389,
+      "phone": "2995289389",
       "email": "gerencia@codesin.com.ar",
       "description": "Construcción y Reparación de Tanques, Obras Electromecanicas, Tendidos de Ductos, Reparación de Bombas de Superficie, Sellado de Fugas"
-     },
-     {
+    },
+    {
       "company": "COMPRESSCO",
-      "type": "servicio de compresion",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "33-71033608-9",
-      "contact_name": "Silvana. Rios",
-      "phone": "299 4861680 ",
+      "contact_name": "Silvana Rios",
+      "phone": "299 4861680",
       "email": "srios@tetratec.com",
       "description": "Compresión"
-     },
-     {
+    },
+    {
       "company": "CONFLUENCIA AMBIENTAL",
-      "type": "Servicios ambientales - Servicios topográficos",
+      "type": "Gestión Ambiental",
       "cuit": "30-71416538-7",
       "contact_name": "MORENO GABRIELA",
       "phone": "299-4093016",
       "email": "proveedores@confluenciambiental.com.ar",
       "description": "Estudios y proyectos ambientales - Seguridad y riesgo industrial - Mediciones y muestreos - Operacion y mantenimiento de plantas de efluentes - Remediacion ambiental."
-     },
-     {
+    },
+    {
       "company": "CONSULTUS",
       "type": "Consultora",
       "cuit": "20-17214666-0",
@@ -71,975 +71,841 @@
       "phone": "299 4610797 ",
       "email": "scortez@consultus.com.ar",
       "description": "Asesoramiento Tecnico Profesional especializado en operaciones de la Industria Hidrocarburìfera, suministrando herramientas y conocimientos exclusivos de aplicación inmediata. Consultoría y Capacitaciones a medida. Empresa certificada Neuquina."
-     },
-     {
+    },
+    {
       "company": "DATUM MEDICINA",
-      "type": "salud",
+      "type": "Salud y Seguridad",
       "cuit": "30-71227821-4",
       "contact_name": "CES DAMIAN ALEJANDRO",
-      "phone": 2995740013,
+      "phone": "2995740013",
       "email": "administracion@datummedicina.com.ar",
       "description": "Servicio de emergencias medicas"
-     },
-     {
+    },
+    {
       "company": "DEPOSITO FISCAL ADUANERO DEL NEUQUEN",
-      "type": "Logistica",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71248353-5",
       "contact_name": "Natalia Muguerza",
-      "phone": 2994092447,
+      "phone": "2994092447",
       "email": "nmuguerza@dfaneuquen.com",
       "description": "servicios de almacenamiento y depósito de mercaderías con destino a la exportación e importación, autorizados por Aduana\/Senasa. \nImportacion,Exportacion, Almacenamiento y Transporte."
-     },
-     {
+    },
+    {
       "company": "EL PAMPEANO",
-      "type": "Servicios metalurgicos",
+      "type": "Industria y Fabricación",
       "cuit": "30-67261745-2",
       "contact_name": "Daniel Duñez",
       "phone": "0299-4961910",
       "email": "ddunez@elpampeanosrl.com.ar",
       "description": "Metalurgica y Mecanizado en general. - Fabricación de tanques API para almacenamiento de hidrocarburos. - Tornería Especializada. Reparación de Bombas."
-     },
-     {
+    },
+    {
       "company": "ELECTROANTU SRL",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-67262755-5",
-      "contact_name": "MOLINERIS ALDO \/ AVERSANO NORBERTO \/ WAIMAN ALBERTO",
-      "phone": "2996335371  \/ 2994054499  \/ 2996335712 ",
+      "contact_name": "MOLINERIS ALDO / AVERSANO NORBERTO / WAIMAN ALBERTO",
+      "phone": "2996335371 / 2994054499 / 2996335712",
       "email": "admolineris@gmail.com",
       "description": "Montajes electromecánicos - Operación y Mantenimiento de sistemas eléctricos"
-     },
-     {
+    },
+    {
       "company": "ENTROPIA",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71545419-6",
       "contact_name": "Facundo Alvarez",
-      "phone": 2994514626,
+      "phone": "2994514626",
       "email": "falvarez@entropiasrl.com",
       "description": "Servicios de Well Testing y Flowback"
-     },
-     {
+    },
+    {
       "company": "ENVIROHIDRO",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "33-71419834-9",
       "contact_name": "DIAZ LUCAS",
-      "phone": 2974784960,
+      "phone": "2974784960",
       "email": "administracion@envirohidro.com",
-      "description": "ENTUBACIÓN DE POZOS \/ SERVICIO DE TORQUE\/ PRUEBA DE PRESIÓN\/LAVADO DE CAÑERÍA"
-     },
-     {
+      "description": "Servicios de apoyo para la extracción de petróleo y gas natural."
+    },
+    {
       "company": "ENVIROMENTAL",
+      "type": "Gestión Ambiental",
       "cuit": "30-70973254-0",
       "contact_name": "Pablo Ramos",
-      "phone": 2995166599,
+      "phone": "2995166599",
       "email": "info@enviroservices.com.ar",
-      "description": "SERVICIO DE IMPERMEABILIZACION DE SUELOS, MEDIANTE EL USO DE MANTAS OLEOFILICAS; REMEDIACION DE SUELOS CONTAMINADOS; SANEAMIENTO DE SUELOS CONTAMINADOS"
-     },
-     {
+      "description": "Servicios de gestión ambiental, monitoreo de calidad de aire, agua y suelo, estudios de impacto ambiental, remediación de suelos y aguas, gestión de residuos, auditorías ambientales, capacitación y asesoramiento."
+    },
+    {
       "company": "EVOLUCION CHIMICAL",
+      "type": "Consultoría y Servicios Profesionales",
       "cuit": "30-71656130-1",
       "contact_name": "Castro Javier",
-      "phone": 2995173427,
+      "phone": "2995173427",
       "email": "yvazquez@evolution-chemical.net",
-      "description": "Análisis físico y químicos de agua y petroleo "
-     },
-     {
+      "description": "Análisis físico y químico de agua y petróleo."
+    },
+    {
       "company": "FERRERE E HIJOS SRL",
+      "type": "Industria y Fabricación",
       "cuit": "30-67269725-1",
-      "contact_name": "MARCO FERRERE \nFACUNDO MALLONI",
-      "phone": "2994056256\n2994724126",
-      "email": "marcoferrere@ferrere-srl.com.ar\nmfalloni@ferrere-srl.com.ar",
-      "description": "Servicio de Cargas Generales. Servicio de Gruas. Servicio de Manlif. Servicio de Guinches Petroleros. Servicio de Hidrogrúa."
-     },
-     {
+      "contact_name": "MARCO FERRERE / FACUNDO MALLONI",
+      "phone": "2994056256 / 2994724126",
+      "email": "marcoferrere@ferrere-srl.com.ar / mfalloni@ferrere-srl.com.ar",
+      "description": "Fabricación de estructuras metálicas, tanques, cañerías, soldaduras especiales, mantenimiento industrial."
+    },
+    {
       "company": "FLOWBACK",
-      "type": "consultora",
-      "cuit": 33717038229,
-      "contact_name": "LARRAINZAR CESAR ",
+      "type": "Consultoría y Servicios Profesionales",
+      "cuit": "33717038229",
+      "contact_name": "LARRAINZAR CESAR",
       "phone": "299 5368238",
       "email": "celarrainzar@gmail.com",
       "description": "Ingeniería, consultoría, asesoramiento especializado, mantenimiento, insumos y productos para alta presión."
-     },
-     {
+    },
+    {
       "company": "GEOCONTROL SRL",
+      "type": "Consultoría y Servicios Profesionales",
       "cuit": "30-71136369-2",
       "contact_name": "OSCAR ERRETEGUI",
       "phone": "299-4197212",
       "email": "oscar@geocontrolsrl.com.ar",
-      "description": "Procesos geologicos"
-     },
-     {
+      "description": "Procesos geológicos"
+    },
+    {
       "company": "VALPOB SRL",
+      "type": "Industria y Fabricación",
       "cuit": "30-71453937-6",
       "contact_name": "Javier Esteban Valdez",
-      "phone": 2996110110,
+      "phone": "2996110110",
       "email": "ventas@valpobnqn.com.ar",
       "description": "Trailers, Aires Acondicionados, Hidrolavados, Cercos perimetrales industriales. Servicio Manlift."
-     },
-     {
+    },
+    {
       "company": "IAN SERVICIOS",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-71480851-2",
       "contact_name": "ARIEL MALATESTA",
-      "phone": "299 401-2491 (AM)  ",
+      "phone": "299 401-2491",
       "email": "administracion@ianservicios.com.ar",
       "description": "Soldadura calificada, estructura, piping, RSAP, Tanques de almacenamiento, ductos, materiales y equipos especiales.\nReparación y mantenimiento en general. Obras menores. Obra civiles. Arenado, pintura y recubriremientos. Andamios  aislaciones."
-     },
-     {
+    },
+    {
       "company": "IBC",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-71495977-4",
       "contact_name": "Dario Belisle",
-      "phone": 2994056372,
+      "phone": "2994056372",
       "email": "dario.belisleibcarg.com",
-      "description": "O&M- OBRAS CIVILES Y RENTAL DE EQUIPOS"
-     },
-     {
+      "description": "Obras civiles y rental de equipos"
+    },
+    {
       "company": "INDARSA",
+      "type": "Gestión Ambiental",
       "cuit": "30-70842404-4",
       "contact_name": "Iván Fhurer",
-      "phone": "299 5900720",
+      "phone": "299 5900720",
       "email": "Ivanfhurer@indarsa.com",
       "description": "INCINERACIÓN DE RESIDUOS ESPECIALES, PELIGROSOS Y PATÓGENOS DESORCIÓN TÉRMICA DE SUELOS Y SEMI-SÓLIDOS ESTABILIZADOS TRATAMIENTOS FISICOQUÍMICOS DE LÍQUIDOS Y SEMI-SÓLIDOS\nLIMPIEZA INDUSTRIAL DE EQUIPOS MÓVILES, PILETAS PETROLERAS, TANQUES REMEDIACIÓN DE SITIOS AFECTADOS\nTRANSPORTE DE RESIDUOS ESPECIALES, PELIGROSOS Y PATÓGENOS"
-     },
-     {
+    },
+    {
       "company": "INNOVISION",
+      "type": "Tecnología e Innovación",
       "cuit": "30-67031847-4",
       "contact_name": "Eduardo Antonio Gomez",
-      "phone": 2995966982,
+      "phone": "2995966982",
       "email": "mcerdas@innsa.com",
       "description": "Soluciones basadas en tecnología para la industria del Petróleo y Gas mediante productos propios y servicios asociados - Desarrollo de Productos de software para Oil&Gas Implementación de estrategias de gestión de costos y generación de valor - Gestión de Proyectos E&P Administración de Datos E&P Gestión de Sistemas de Geociencias Automatismo y Control "
-     },
-     {
+    },
+    {
       "company": "IPE",
-      "cuit": "30-66086343-1 ",
+      "type": "Construcción, Mantenimiento e Infraestructura",
+      "cuit": "30-66086343-1",
       "contact_name": "Fernando Barreto",
       "phone": "299 411 3499",
       "email": "fbarreto@ipeneuquen.com.ar",
-      "description": "CONSTRUCCIÓN, REFORMA Y REPARACIÓN DE REDES DISTRIBUCIÓN DE ELECTRICIDAD, GAS, AGUA, TELECOMUNICACIONES Y DE OTROS SERVICIOS PÚBLICOS "
-     },
-     {
+      "description": "CONSTRUCCIÓN, REFORMA Y REPARACIÓN DE REDES DISTRIBUCIÓN DE ELECTRICIDAD, GAS, AGUA, TELECOMUNICACIONES Y DE OTROS SERVICIOS PÚBLICOS"
+    },
+    {
       "company": "IRANZI LOGISTICA",
-      "type": "logistica",
+      "type": "Logística y Almacenamiento",
       "cuit": "20-22053900-9",
       "contact_name": "IGNACIO IRANZI",
-      "phone": 2995193812,
+      "phone": "2995193812",
       "email": "IRANZILOGISTICA@GMAIL.COM",
-      "description": "SERVICIO DE TRANSPORTE AUTOMOTOR DE PASAJEROS"
-     },
-     {
+      "description": "Servicio de transporte automotor de pasajeros"
+    },
+    {
       "company": "INSTROIL",
-      "cuit": 30716050110,
-      "contact_name": "PRADA CRISTIAN ARIEL \/ GUTIERREZ SILVANA",
-      "phone": " 299 4542158 \/  299 5776280",
-      "email": "cristianarielprada@gmail.com ; silgutierrezsigmaringo@gmail.com",
-      "description": "SERVICIOS DE APOYO PARA EL PETROLEO Y GAS NATURAL - SERVICIOS DE INSTRUMENTACION Y MEDICION"
-     },
-     {
+      "type": "Servicios Petroleros y Energía",
+      "cuit": "30716050110",
+      "contact_name": "PRADA CRISTIAN ARIEL",
+      "phone": "299 4542158",
+      "email": "cristianarielprada@gmail.com",
+      "description": "Servicios de apoyo para la extracción de petróleo y gas."
+    },
+    {
       "company": "JV SERVICIOS",
-      "cuit": "30-71442961-9 ",
+      "type": "Industria y Fabricación",
+      "cuit": "30-71442961-9",
       "contact_name": "VENEGAS LUIS",
-      "phone": 2995276833,
+      "phone": "2995276833",
       "email": "jvserviciosmetalurgicos@gmail.com",
-      "description": "Fabricación y montaje en estructura metálica, naves industriales ,contruccion base operatoria, galpones etc "
-     },
-     {
+      "description": "Fabricación y montaje en estructura metálicas y cañerías, mantenimiento industrial, soldaduras especiales, arenado y pintura, montaje de tanques, montaje de equipos, montaje de piping, montaje de estructuras metálicas, montaje de cañerías, mantenimiento industrial, soldaduras especiales, arenado y pintura."
+    },
+    {
       "company": "LAHUE SRL",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-70811468-1",
       "contact_name": "NIÑO, ANA MARIA",
-      "phone": "299 4151179 ",
+      "phone": "299 4151179",
       "email": "gerenciageneral@lahuesrl.com.ar",
-      "description": "Movimiento de Suelo, Desparafinación con Petroleo \/Agua Caliente, Transporte de Cargas Solidas y Liquidas"
-     },
-     {
+      "description": "Movimiento de Suelo, Desparafinación con Petróleo, Agua Caliente, Transporte de Cargas Solidas y Liquidas"
+    },
+    {
       "company": "LBG SOLUCIONES",
+      "type": "Gestión Ambiental",
       "cuit": "30-71692751-9",
       "contact_name": "GIMENEZ CLAUDIO ALBERTO",
-      "phone": "299-6109886 ",
+      "phone": "299-6109886",
       "email": "claudio.gimenez@lbgsoluciones.com.ar",
       "description": "Servicios de detección, medición, gestión y solución de emisiones contaminantes."
-     },
-     {
+    },
+    {
       "company": "MAKING SRL",
+      "type": "Consultoría y Servicios Profesionales",
       "cuit": "33-71474042-9",
       "contact_name": "Maximiliano Kowalski",
-      "phone": 2995885605,
+      "phone": "2995885605",
       "email": "mkowalski@makingsrl.com.ar",
-      "description": "Ensayos no destructivos Certificaciones Asesoría en calidad Pruebas hidráulicas Ingeniería"
-     },
-     {
+      "description": "Ensayos no destructivos, certificaciones, asesoría en calidad..."
+    },
+    {
       "company": "NAVIERA LOJDA SA",
-      "cuit": 30506999355,
-      "contact_name": "Lino Blanco \/ Estudio Bermudez",
-      "phone": "3489518393 \/ 2995835500 ",
-      "email": "lino.blanco@naviera-lojda.net \/ estudio.bermudez@speedy.com.ar",
-      "description": "EXTRACCION Y VENTA DE ARENA"
-     },
-     {
+      "type": "Industria y Fabricación",
+      "cuit": "30506999355",
+      "contact_name": "Lino Blanco / Estudio Bermudez",
+      "phone": "3489518393 / 2995835500",
+      "email": "lino.blanco@naviera-lojda.net / estudio.bermudez@speedy.com.ar",
+      "description": "Extracción y venta de arena."
+    },
+    {
       "company": "OFICIO 3",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71233425-4",
       "contact_name": "JUAREZ RUBEN DARIO",
-      "phone": 2994542973,
+      "phone": "2994542973",
       "email": "nmedina.oficio3@gmail.com",
-      "description": "PROVISION DE AGUA POTABLE,SERVICIO DE APOYO PARA LA EXTRACCION DE PETROLEO Y GAS NATURAL"
-     },
-     {
-      "company": "PANTHER ",
+      "description": "Provisión de agua potable, servicio de apoyo para la extracción de petróleo y gas natural."
+    },
+    {
+      "company": "PANTHER",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71586732-6",
-      "contact_name": "JUAN MOLL\/MAXIMILIANO PICAZO",
-      "phone": "02996344046 \/  02995790820 ",
+      "contact_name": "JUAN MOLL / MAXIMILIANO PICAZO",
+      "phone": "02996344046 / 02995790820",
       "email": "OPERACIONES@PANTHER-DHT.COM",
-      "description": "SERVICIO DE HERRAMIENTAS DE FONDO PARA OPERACIONES CON COILED TUBING Y EQUIPOS DE WORK OVER."
-     },
-     {
+      "description": "Servicio de herramientas de fondo para operaciones con coiled tubing y equipos de workover."
+    },
+    {
       "company": "PETRONEU",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-65545410-8",
       "contact_name": "JUAN CARLOS GALLO",
-      "phone": 2995816339,
+      "phone": "2995816339",
       "email": "eduardofigueroa@petroneu.com",
-      "description": "Servicios De Pulling, Workover y Abandonos de Pozos"
-     },
-     {
+      "description": "Servicios de pulling, workover y abandonos de pozos."
+    },
+    {
       "company": "PETROGAS",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-65858008-2",
       "contact_name": "Carlos Torth",
-      "phone": 2995838906,
+      "phone": "2995838906",
       "email": "veronica.jaramillo@petrogassa.com",
       "description": "Telesupervision y sistemas, Ingenieria y Logistica, Ejecucion del Mantenimiento , Electricomecanico y de Instrumental. Servicios Auxiliares de Montaje ,Control de Calidad  de entrega de gas, puesta en Marcha de Planas de Tratamiento, Optimizacion  de Plantas y Soluciones  Operativas para terceros. Mantenimiento de vehiculos y transporte de personal"
-     },
-     {
+    },
+    {
       "company": "PROCESOS PATAGONICOS SRL",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-70968475-9",
       "contact_name": "Sr. Luis Turi (Socio Gerente)",
-      "phone": 2994936884,
+      "phone": "2994936884",
       "email": "info@procesospatagonicos.com.ar",
-      "description": "Alquiler de módulos habitacionales, traslado, DTM y servicio de mantenimiento"
-     },
-     {
+      "description": "Alquiler de módulos habitacionales, traslado y mantenimiento."
+    },
+    {
       "company": "PROYECTOS PETROLEROS SRL",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-70980303-0",
       "contact_name": "CARLOS LLORENS",
-      "phone": "299-519-4433 ",
+      "phone": "299-519-4433",
       "email": "carlos.llorens@pyp-argentina.com",
       "description": "Alquiler de herramientas interior pozo - Mantenimiento integral de conexiones - Tornería, calzado y rectificado de estabilizadores y camisas estabilizadoras - Servicio de Shot Peening"
-     },
-     {
+    },
+    {
       "company": "QUINAR",
+      "type": "Tecnología e Innovación",
       "cuit": "30-65321436-3",
       "contact_name": "Torres, Daniel",
-      "phone": 2995816643,
+      "phone": "2995816643",
       "email": "daniel@quinar.com.ar",
-      "description": "Servicios de Telecomunicaciones, Transmisión de Datos"
-     },
-     {
+      "description": "Servicios de telecomunicaciones y transmisión de datos."
+    },
+    {
       "company": "RIO LIMAY",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-70988747-1",
       "contact_name": "CARLOS GINGINS",
-      "phone": 2995259439,
+      "phone": "2995259439",
       "email": "ADMINISTRACION@RIOLIMAYOFS.COM.AR",
-      "description": "SERVICIOS PETROLEROS \/ TRANSFERENCIA DE AGUA \/ ALQUILER DE EQUIPOS \/ TRANSPORTE DE CARGAR"
-     },
-     {
+      "description": "Servicios petroleros, transferencia de agua, alquiler de equipos."
+    },
+    {
       "company": "SANTA FE OIL RIGS SRL",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71677676-6",
       "contact_name": "PRADA CRISTIAN ARIEL",
-      "phone": 2994542158,
+      "phone": "2994542158",
       "email": "cristianarielprada@gmail.com",
-      "description": "SERVICIOS DE APOYO PARA LA EXTRACCION DE PETROLEO Y GAS"
-     },
-     {
+      "description": "Servicios de apoyo para la extracción de petróleo y gas."
+    },
+    {
       "company": "SWPETROL",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "23-29253026-9",
       "contact_name": "Rodriguez Elio M.",
       "phone": "0299-4534301",
       "email": "eliorodriguez@swpetrol.com.ar",
-      "description": "Servicios Mecanico, soldadura, elctricidad, torneria, piping, ingenieria."
-     },
-     {
+      "description": "Servicios mecánicos, soldadura, electricidad, tornería..."
+    },
+    {
       "company": "Servicios Petroleros Norte S.A.",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-70904534-9",
       "contact_name": "Juan Martín",
-      "phone": 2994969790,
+      "phone": "2994969790",
       "email": "Juan_Martin@nortpetrol.com",
-      "description": "Andamios. - Construcciones metalúrgicas en general. - Reparacion de bombas. Hidrolavado de equipos. - Mecanizado - Taller de torneria - Arenado y pintura de equipos de proceso."
-     },
-     {
+      "description": "Construcciones metalúrgicas, reparación de bombas..."
+    },
+    {
       "company": "SOUTH AMERICAN TRANSPORT SRL",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-70913334-5",
       "contact_name": "Roco Francisco",
-      "phone": 2995055000,
+      "phone": "2995055000",
       "email": "rocofran@hotmail.com",
-      "description": "Transporte de personal - Mantenimiento de Flota - Alquiler de vehiculos - Transporte de cargas"
-     },
-     {
+      "description": "Transporte de personal, mantenimiento de flota..."
+    },
+    {
       "company": "SUPPLY",
+      "type": "Industria y Fabricación",
       "cuit": "30-58396791-1",
       "contact_name": "HORACIO URBIETA",
-      "phone": "299 5815319 ",
+      "phone": "299 5815319",
       "email": "horacio.urbieta@supplypetrolero.com.ar",
-      "description": "Insumos para la industria del gas y el petróleo - Importaciones - Rental -"
-     },
-     {
+      "description": "Insumos para la industria del gas y petróleo."
+    },
+    {
       "company": "TACKER",
+      "type": "Industria y Fabricación",
       "cuit": "30-65781904-9",
       "contact_name": "F. Cortez",
-      "phone": 2995723677,
+      "phone": "2995723677",
       "email": "fcortez@tackertools.com",
-      "description": "Su actividad empresarial es la de prestar servicios, desarrollar productos, fabricar, alquilar y vender herramientas y equipos para la industria del petróleo, gas y agua."
-     },
-     {
+      "description": "Servicios y fabricación de herramientas para la industria del petróleo."
+    },
+    {
       "company": "TEXEY SRL",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-65823215-7",
-      "contact_name": "Marianelly Inostroza \nArturo Tonetti",
-      "phone": "299 6344553\n299 5937212",
-      "email": "minostroza@texey.com.ar \natonetti@texey.com.ar",
-      "description": "Transporte de cargas líquidas y sólidas para la actividad Petrolera\/ Obras civiles \/Servicios de Ingeniería."
-     },
-     {
-      "company": " TRANSPORTE PEDUZZI",
+      "contact_name": "Marianelly Inostroza / Arturo Tonetti",
+      "phone": "299 6344553 / 299 5937212",
+      "email": "minostroza@texey.com.ar / atonetti@texey.com.ar",
+      "description": "Transporte de cargas líquidas y sólidas para la actividad Petrolera/ Obras civiles /Servicios de Ingeniería."
+    },
+    {
+      "company": "TRANSPORTE PEDUZZI",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-70849238-4",
       "contact_name": "Florencia Peduzzi",
-      "phone": 2994699555,
+      "phone": "2994699555",
       "email": "Florencia.peduzzi@peduzzi.com.ar",
-      "description": "Transporte cargas líquidas. Locación seca. Equipos de alto vacío. Bombas para captación y transporte de agua para fractura."
-     },
-     {
+      "description": "Transporte cargas líquidas. Locación seca. Equipos de alto vacío..."
+    },
+    {
       "company": "TRANSPORTE ALMEIRA",
+      "type": "Logística y Almacenamiento",
       "cuit": "23-11810961-9",
       "contact_name": "ALMEIRA DENIS",
-      "phone": 2994528666,
+      "phone": "2994528666",
       "email": "denis_almeira@hotmail.com",
-      "description": "TRANSPORTE DE CARGAS LIQUIDAS, TRANSPORTE DE CARGAS SOLIDAS, TRANSPORTE DE PERSONAL, ALQUILERES TEMPORARIOS."
-     },
-     {
+      "description": "Transporte de cargas líquidas, sólidas, de personal, alquileres temporarios."
+    },
+    {
       "company": "TRANSPORTE ALZOGARAY",
+      "type": "Logística y Almacenamiento",
       "cuit": "20-25714920-0",
       "contact_name": "CAROLINA OLAVE",
-      "phone": 2994205779,
+      "phone": "2994205779",
       "email": "administracion@transportesalzogaray.com",
-      "description": "TRANSPORTE DE CARGAS SOLIDAS CON SERVICIOS DE HIDROGRUA - MOVIMIENTO DE SUELO Y VENTA DE ARIDOS TRANSPORTE DE EQUIPOS ESPECIALES - TRANSPORTE DE SUSTANCIAS LIQUIDAS SEGURIDAD E HIGIENE"
-     },
-     {
+      "description": "Transporte de cargas sólidas, servicios de hidrogrúa, movimiento de suelo..."
+    },
+    {
       "company": "TRANSPORTE SEIFERT",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71023138-5",
-      "contact_name": "Seifert Alicia \/ Ramiro Bravo",
-      "phone": "2994049801 \/ 2994049802 ",
+      "contact_name": "Seifert Alicia / Ramiro Bravo",
+      "phone": "2994049801 / 2994049802",
       "email": "compras-tseifert@copelnet.com.ar",
-      "description": "Movimiento de suelo. Transportes de sólidos y líquidos. Mantenimiento y construccion de caminos. Alquiler de equipos viales y pesados. Servicio de hormigón elaborado"
-     },
-     {
+      "description": "Movimiento de suelo, transporte de sólidos y líquidos..."
+    },
+    {
       "company": "TURBERA AUSTRAL SA",
+      "type": "Gestión Ambiental",
       "cuit": "33-71252617-9",
       "contact_name": "ALFREDO COMEZAÑA",
-      "phone": 2915117422,
+      "phone": "2915117422",
       "email": "alfredo.comezana@turberaaustral.com",
-      "description": "MANTAS ORGANICA OLEOFILICAS - KIT ANTIDERRAME HIDROCARBURO BOLSO KIT ANTIDERRAME HIDROCARBURO TACHO - BOLSA ABSORBENTE HIDROCARBURO MANGAS ABSORBENTES HIDROCARBURO"
-     },
-     {
+      "description": "Mantas orgánicas oleofílicas, kits antiderrame hidrocarburo..."
+    },
+    {
       "company": "TURISMO PATAGONIA",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-61158058-0",
       "contact_name": "TURISMO PATAGONIA S.A.",
-      "phone": 2994482419,
+      "phone": "2994482419",
       "email": "NERINA@TURISMOPATAGONIASA.COM.AR",
-      "description": "TRANSPORTE DE PASAJEROS PRIVADO"
-     },
-     {
+      "description": "Transporte de pasajeros privado."
+    },
+    {
       "company": "UDEM",
+      "type": "Salud y Seguridad",
       "cuit": "34-63895203-5",
       "contact_name": "Dr. Juan Carlos Gaboardi, Dr. Félix Alfonso Rodriguez, Dr. Carlos Alberto Bochatay",
-      "phone": 2966679236,
-      "email": " jgaboardi@udemsrl.com.ar",
-      "description": "Atención Médica Pre Hospitalaria urbana - Atención Médica, de primeros auxilios y traslados en áreas remotas"
-     },
-     {
+      "phone": "2966679236",
+      "email": "jgaboardi@udemsrl.com.ar",
+      "description": "Atención médica prehospitalaria urbana y en áreas remotas."
+    },
+    {
       "company": "UNITEC",
+      "type": "Tecnología e Innovación",
       "cuit": "30-70728364-1",
       "contact_name": "RODRIGO SAEZ",
       "phone": "299 4389990",
       "email": "Rsaez@unitecnqn.com.ar",
       "description": "Sistemas de Deteccion de Incendios, Sistemas de CCTV, Seguridad Electronica, Instalacion y Certificacion de Redes de Datos e Instalaciones Electricas. "
-     },
-     {
+    },
+    {
       "company": "PETROCIAL",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71656170-0",
       "contact_name": "Paola Scrigner",
       "phone": "0299-4873144",
       "email": "administracion@petrocialsas.com.ar",
-      "description": "Servicio de apoyo de extraccion de petroleo y gas natural."
-     },
-     {
+      "description": "Servicio de apoyo a la extracción de petróleo y gas natural."
+    },
+    {
       "company": "VANGUARDIA",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71189433-7",
       "contact_name": "MARCELO PEPE",
-      "phone": 2994627222,
+      "phone": "2994627222",
       "email": "mpepe@vanguardiaservices.com.ar",
-      "description": "Transferencia de Agua"
-     },
-     {
+      "description": "Transferencia de agua."
+    },
+    {
       "company": "VANOLI DURAN",
+      "type": "Consultoría y Servicios Profesionales",
       "cuit": "30-70845713-9",
-      "contact_name": "DURAND RICARDO OSCAR\/VANOLI HUGO MARIO",
-      "phone": 2994056812,
+      "contact_name": "DURAND RICARDO OSCAR / VANOLI HUGO MARIO",
+      "phone": "2994056812",
       "email": "rodurand@copelnet.com.ar",
-      "description": "SERV. PREPARACION DE COMIDAS PARA EMPRESAS, SERV DE MAESTRANZA, TRANSPORTE DE PERSONAL"
-     },
-     {
+      "description": "Servicios de comidas para empresas."
+    },
+    {
       "company": "VISERS",
+      "type": "Consultoría y Servicios Profesionales",
       "cuit": "30-71682912-6",
       "contact_name": "Rivera Laura Viviana",
-      "phone": "2994653601-2995535028",
+      "phone": "2994653601 / 2995535028",
       "email": "viviana.rivera@viserssas.ar",
-      "description": "Viandas, maestranza, alquiler de equipos,"
-     },
-     {
+      "description": "Viandas, maestranza, alquiler de equipos."
+    },
+    {
       "company": "DOGA SRL",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71511613-4",
       "contact_name": "GILMAR ANDRES",
-      "phone": " 2920573521",
+      "phone": "2920573521",
       "email": "dogasrl.doga@gmail.com",
-      "description": "Apoyo en extraccion de petroleo y gas."
-     },
-     {
+      "description": "Apoyo en extracción de petróleo y gas."
+    },
+    {
       "company": "L Y P",
+      "type": "Industria y Fabricación",
       "cuit": "30-71708036-6",
       "contact_name": "RENZO LEAL",
-      "phone": 2996825992,
+      "phone": "2996825992",
       "email": "administracion@lypservicios.net",
-      "description": "Arenado , pintura , metalurgica. "
-     },
-     {
+      "description": "Arenado, pintura, metalúrgica."
+    },
+    {
       "company": "SANDOR",
-      "cuit": " 30-71574317-1",
+      "type": "Logística y Almacenamiento",
+      "cuit": "30-71574317-1",
       "contact_name": "ARIEL SANTOS VEGA",
-      "phone": 2994221568,
+      "phone": "2994221568",
       "email": "sandorsrl.adm@gmail.com",
       "description": "Transporte de pasajeros."
-     },
-     {
-      "company": "TRANASPORTE SANTOS VEGA",
+    },
+    {
+      "company": "TRANSPORTE SANTOS VEGA",
+      "type": "Logística y Almacenamiento",
       "cuit": "20-24609610-5",
       "contact_name": "ARIEL SANTOS VEGA",
-      "phone": 2994221568,
+      "phone": "2994221568",
       "email": "arielsantosvega@hotmail.com",
       "description": "Transporte de pasajeros."
-     },
-     {
+    },
+    {
       "company": "IÑAKI SA",
-      "cuit": " 30-71448239-0",
+      "type": "Consultoría y Servicios Profesionales",
+      "cuit": "30-71448239-0",
       "contact_name": "LORENA",
       "phone": "2996 37-3971",
       "email": "icatering@hotmail.com.ar",
       "description": "Servicio de catering y limpieza en general."
-     },
-     {
-      "company": " NEUSERVICE SRL",
+    },
+    {
+      "company": "NEUSERVICE SRL",
+      "type": "Industria y Fabricación",
       "cuit": "33-70947729-9",
       "contact_name": "LOPEZ NOELIA",
-      "phone": " 2995 15-5149",
+      "phone": "2995 15-5149",
       "email": "neuservice_srl@hotmail.com",
-      "description": "Servicio de soldadura arenado y pintura."
-     },
-     {
-      "company": "DOHKO\/ITEC",
-      "cuit": " 30-71227297-6",
+      "description": "Servicio de soldadura, arenado y pintura."
+    },
+    {
+      "company": "DOHKO/ITEC",
+      "type": "Tecnología e Innovación",
+      "cuit": "30-71227297-6",
       "contact_name": "FRANCISCO BAUDONE",
-      "phone": " 2995 87-6725",
+      "phone": "2995 87-6725",
       "email": "cobranzan@tiendaitec.com",
-      "description": "Distribuidora de artículos de computación, informática seguridad patrimonial"
-     },
-     {
+      "description": "Distribuidora de artículos de computación, informática y seguridad patrimonial."
+    },
+    {
       "company": "OLEW SAS",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71751379-3",
       "contact_name": "FAUSTO SCLAR",
       "phone": "2994 61-6144",
       "email": "olewservicios@gmail.com",
-      "description": "SERVICIOS PETROLEROS."
-     },
-     {
+      "description": "Servicios petroleros."
+    },
+    {
       "company": "M L TALLER MOVIL",
-      "cuit": "27-39128692-8 ",
+      "type": "Consultoría y Servicios Profesionales",
+      "cuit": "27-39128692-8",
       "contact_name": "ERICA MORENO",
-      "phone": " 299-155567217",
+      "phone": "299-155567217",
       "email": "ml_nqn@hotmail.com",
-      "description": " Venta y servicio de matafuegos."
-     },
-     {
+      "description": "Venta y servicio de matafuegos."
+    },
+    {
       "company": "PRODENG",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71090071-6",
       "contact_name": "FEDERICO RESIO",
       "email": "federico.resio@prodeng.com.ar",
-      "description": "Flowback y Testing"
-     },
-     {
+      "description": "Flowback y Testing."
+    },
+    {
       "company": "ERLOMA",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "33-71454891-9",
-      "contact_name": " CICCHITTI LUCIANO",
-      "phone": " 2615893144",
+      "contact_name": "CICCHITTI LUCIANO",
+      "phone": "2615893144",
       "email": "agusgrattoni@gmail.com",
-      "description": "SERV. EXTRACCIÓN DE PETRÓLEO Y GAS NAT."
-     },
-     {
+      "description": "Servicio de extracción de petróleo y gas."
+    },
+    {
       "company": "GEDEON",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-71189374-8",
       "contact_name": "MARCO LIZAMA",
-      "phone": 2995701900,
+      "phone": "2995701900",
       "email": "administracion@grupogedeon.com.ar",
-      "description": "Construcción de obras de ingeniería civil n.c.p"
-     },
-     {
+      "description": "Construcción de obras de ingeniería civil."
+    },
+    {
       "company": "ZILLE",
+      "type": "Construcción, Mantenimiento e Infraestructura",
       "cuit": "30-60468709-4",
       "contact_name": "SILVIO ZILLE",
-      "phone": " 299 154203557",
+      "phone": "299 154203557",
       "email": "zille@zillesrl.com.ar",
-      "description": "Movimiento de suelo, Obras en superficie."
-     },
-     {
+      "description": "Movimiento de suelo, obras en superficie."
+    },
+    {
       "company": "JOHN M PHILLIPS",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-71567278-9",
       "contact_name": "PASCUAL SANFEDELE",
-      "phone": 2994090124,
+      "phone": "2994090124",
       "email": "pascual.sanfedele@johnmphillips.com",
-      "description": "Servicios para la industria del petroleo y gas"
-     },
-     {
+      "description": "Servicios para la industria del petróleo y gas."
+    },
+    {
       "company": "TB CARGO",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71497981-3",
-      "contact_name": "Florencia santino",
+      "contact_name": "Florencia Santino",
       "phone": "0117090 2514",
       "email": "proveedores@tbcargo.com",
-      "description": "TRANSPORTE DE CARGAS"
-     },
-     {
+      "description": "Transporte de cargas."
+    },
+    {
       "company": "DEXTEC",
+      "type": "Industria y Fabricación",
       "cuit": "30-71658893-5",
-      "contact_name": " Pérez Victor Hugo",
-      "phone": 2994023425,
+      "contact_name": "Pérez Victor Hugo",
+      "phone": "2994023425",
       "email": "administracion@dextec.com.ar",
-      "description": "Servicios de tornería y metalurgia (arenado,reparacion , manteniemiento)"
-     },
-     {
+      "description": "Servicios de tornería y metalurgia."
+    },
+    {
       "company": "PONTEVEDRA SA",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71425224-7",
       "contact_name": "Pablo Berardo",
-      "phone": 2996271605,
+      "phone": "2996271605",
       "email": "pablo.berardo@pontevedrasa.com",
-      "description": "Transporte de cargas, Transporte de pasajeros."
-     },
-     {
+      "description": "Transporte de cargas, transporte de pasajeros."
+    },
+    {
       "company": "POLYAR SACIF",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-63363360-2",
-      "contact_name": "Sabrina Sarmiento ",
+      "contact_name": "Sabrina Sarmiento",
       "email": "finanzas@segarsa.com.ar",
-      "description": "Servicios de control de solidos."
-     },
-     {
+      "description": "Servicios de control de sólidos."
+    },
+    {
       "company": "ITP",
-      "cuit": " 30-71633197-7",
+      "type": "Consultoría y Servicios Profesionales",
+      "cuit": "30-71633197-7",
       "contact_name": "Carlos Carrizo",
-      "phone": " 299-6288855",
+      "phone": "299-6288855",
       "email": "administracion@itpneuquen.edu.ar",
-      "description": "Consultoria y prestación de Servicios del rubro energético"
-     },
-     {
+      "description": "Consultoría y prestación de servicios del rubro energético."
+    },
+    {
       "company": "ECO2POWER",
+      "type": "Servicios Petroleros y Energía",
       "cuit": "30-7174899-3",
       "contact_name": "Guadalupe Sanchez",
-      "phone": " 2994160457",
+      "phone": "2994160457",
       "email": "guadalupe.sanchez@eco2power.com",
-      "description": "Extraccion de petroleo y gas."
-     },
-     {
+      "description": "Extracción de petróleo y gas."
+    },
+    {
       "company": "JACWELL",
-      "cuit": " 30-65781904-9",
+      "type": "Servicios Petroleros y Energía",
+      "cuit": "30-65781904-9",
       "contact_name": "Pablo Martin",
       "phone": "299-5082943",
       "email": "pmartin@jacwell.com.ar",
-      "description": "Servicios Coiled Tubing"
-     },
-     {
+      "description": "Servicios Coiled Tubing."
+    },
+    {
       "company": "HYDRO SOLUTION",
+      "type": "Industria y Fabricación",
       "cuit": "30-71526634-9",
       "contact_name": "Diego Gatti",
       "phone": "54 9 11 3600-6603",
       "email": "administracion@hydrosolution.com.ar",
-      "description": "VENTA AL POR MAYOR DE MÁQUINAS, EQUIPOS E IMPLEMENTOS DE USO ESPECIALN.C.P."
-     },
-     {
+      "description": "Venta al por mayor de máquinas y equipos."
+    },
+    {
       "company": "SERVICOM",
-      "cuit": " 30-65771002-0",
+      "type": "Tecnología e Innovación",
+      "cuit": "30-65771002-0",
       "contact_name": "Jose Luis Zalvide",
-      "phone": " 299 4110226",
+      "phone": "299 4110226",
       "email": "servicom@copelnet.com.ar",
-      "description": "Servicio Mantenimiento Telecomunicaciones e Informatica"
-     },
-     {
+      "description": "Mantenimiento en telecomunicaciones e informática."
+    },
+    {
       "company": "GRUPOBARBAGALLO",
-      "cuit": " 30-71226181-8",
+      "type": "Logística y Almacenamiento",
+      "cuit": "30-71226181-8",
       "contact_name": "Carlos Israel Barbagallo",
       "phone": "261 6667453",
       "email": "finanzas@grupobarbagallo.com",
-      "description": "LQUILER DE VEHÍCULOS AUTOMOTORES N.C.P., SIN CONDUCTOR NI OPERARIOS"
-     },
-     {
+      "description": "Alquiler de vehículos automotores sin conductor."
+    },
+    {
       "company": "PROFIX",
+      "type": "Industria y Fabricación",
       "cuit": "30-71429890-5",
-      "contact_name": " Carlos Alfredo Barbagallo",
-      "phone": " 2616667453",
+      "contact_name": "Carlos Alfredo Barbagallo",
+      "phone": "2616667453",
       "email": "finanzas@grupobarbagallo.com",
-      "description": "VENTA AL POR MENOR DE PARTES, PIEZAS Y ACCESORIOS NUEVOS N.C.P."
-     },
-     {
+      "description": "Venta de partes, piezas y accesorios nuevos."
+    },
+    {
       "company": "3 HI B SERVICES SRL",
-      "cuit": " 30-71480806-7",
-      "contact_name": " Fernando Nuñez",
-      "phone": " 2994128351",
+      "type": "Logística y Almacenamiento",
+      "cuit": "30-71480806-7",
+      "contact_name": "Fernando Nuñez",
+      "phone": "2994128351",
       "email": "hbservicesnqn@gmail.com",
-      "description": " Logística y servicios a la industria petrolera. Servicios de transporte con malacate petrolero\n- Servicio de distribución de Agua potables en los campamentos.\n- Reparación y mantenimiento de trailers habitacionales, entre otros."
-     },
-     {
+      "description": "Logística y servicios a la industria petrolera."
+    },
+    {
       "company": "ITALO SERVICIOS MINEROS SA",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71223204-4",
       "contact_name": "Javier Badui",
-      "phone": 2613074310,
+      "phone": "2613074310",
       "email": "jbadui@italoservicios.com.ar",
-      "description": "Alquiler de trailers habitacionales y logística"
-     },
-     {
+      "description": "Alquiler de trailers habitacionales y logística."
+    },
+    {
       "company": "PROMAQ PLATAFORMA y SERV.",
+      "type": "Logística y Almacenamiento",
       "cuit": "30-71715400-9",
       "contact_name": "Santiago Laghezza",
-      "phone": 2615937896,
+      "phone": "2615937896",
       "email": "santiagopromaq@gmail.com",
-      "description": "Logística y alquiler de transporte pesado, manipuladores, gruas."
-     },
-     {
+      "description": "Logística y alquiler de transporte pesado, manipuladores, grúas."
+    },
+    {
       "company": "BERING SERVICIOS SRL",
+      "type": "Logística y Transporte",
       "cuit": "30-71663987-4",
-      "contact_name": " Alejandro Zogbi",
-      "phone": 2613647003,
+      "contact_name": "Alejandro Zogbi",
+      "phone": "2613647003",
       "email": "azogbi@beringservicios.com",
       "description": "Servicio de transporte de personal con camionetas 4x4. Alquiler de vehículos."
-     },
-     {
+    },
+    {
       "company": "GINOMAC",
+      "type": "Inspección y Capacitación",
       "cuit": "30-71594244-1",
-      "contact_name": "RICARDO BLANCO",
+      "contact_name": "Ricardo Blanco",
       "phone": "2996 21-9783",
       "email": "ricardo.blanco@gsneuquen.com",
-      "description": "Servicio de inspección de equipos de izaje y maquinaria vial. Servicio de inspección de elementos y accesorios de izaje. Capacitación y Calificación de operadores de izaje y maquinaria vial. Calificación de supervisores de izaje y maquinaria vial, calificación de eslingadores."
-     },
-     {
+      "description": "Servicio de inspección de equipos de izaje y maquinaria vial. Capacitación y calificación de operadores."
+    },
+    {
       "company": "TECPRECINC",
+      "type": "Seguridad y Mantenimiento",
       "cuit": "30-65765683-2",
       "contact_name": "Rosales Jose Luis",
-      "phone": 2994382811,
+      "phone": "2994382811",
       "email": "jose.rosales@tecprecincsrl.com.ar",
-      "description": "Recarga de extintores - mantenimiento de redes contra incendio - asesoramiento en seguridad e higiene industrial - operadores de autobomba y guardia de bomberos - obras de redes contra incendio y obras varias."
-     },
-     {
+      "description": "Recarga de extintores, mantenimiento de redes contra incendio, asesoramiento en seguridad."
+    },
+    {
       "company": "CONSTRUCCIONES EFICIENTES",
+      "type": "Construcción y Obras",
       "cuit": "30-71574066-0",
       "contact_name": "Mariano Hossman",
       "phone": "299-465-4379",
       "email": "gerencia@hosmann.com.ar",
-      "description": "movimiento de suelos , construcciones integrales."
-     },
-     {
+      "description": "Movimiento de suelos, construcciones integrales."
+    },
+    {
       "company": "GEAARG",
-      "cuit": 30708843985,
-      "contact_name": "Claudio haring",
-      "phone": 2216436622,
+      "type": "Exploración y Producción",
+      "cuit": "30708843985",
+      "contact_name": "Claudio Haring",
+      "phone": "2216436622",
       "email": "claudio.haring@geaarg.com",
-      "description": "Servicios para la exploración y producción de Hidrocarburo"
-     },
-     {
+      "description": "Servicios para la exploración y producción de hidrocarburos."
+    },
+    {
       "company": "TECH MANTENIMIENTO",
+      "type": "Reparación y Mantenimiento",
       "cuit": "3071731929-6",
-      "contact_name": "Seba Melo\/Emanuel Millione",
+      "contact_name": "Seba Melo / Emanuel Millione",
       "phone": "2984 77-0200",
       "email": "smelo@techmantenimiento.com",
-      "description": "Mantenimiento y Reparacion de maquinas y equipos NCP. "
-     },
-     {
-      "company": "ALS ",
+      "description": "Mantenimiento y reparación de máquinas y equipos."
+    },
+    {
+      "company": "ALS",
+      "type": "Gestión y Logística",
       "cuit": "30-71099620-9",
       "contact_name": "Sofia Varela",
       "phone": "11-31758471",
       "email": "svarelav@alservices.com.ar",
-      "description": "SERVICIOS DE GESTIÓN Y LOGÍSTICA PARA EL TRANSPORTE DE MERCADERÍAS N.C.P. (INCLUYE LAS ACTIVIDADES DE EMPRESAS EMPAQUETADORAS PARA COMERCIO EXTERIOR; ALQUILER DE CONTENEDORES; ETC.)"
-     },
-     {
-        "company": "MARPETROL",
-        "cuit": "30-71826165-8",
-        "contact_name": "Sandro Mesplatere",
-        "phone": "2995 55-8182",
-        "email": "smesplatere@marpetrol.com.ar",
-        "description": "Operacion y mantenimiento de yaciemientos hidrocarburiferos",
-        "type": "Operación y Mantenimiento"
-      },
-      {
-        "company": "PLUSWELD SA",
-        "cuit": "30-71665896-8",
-        "contact_name": "Soledad Sanchez",
-        "phone": "2613 01-7655",
-        "email": "soledad.sanchez@plusweld.com",
-        "description": "Fabricacion de maquinaria y estructura en general NCP",
-        "type": "Fabricación"
-      },
-      {
-        "company": "GRUPO HORIZONTE",
-        "cuit": "30-70969436-3",
-        "contact_name": "Ana Cofre",
-        "phone": "2994 68-4656",
-        "email": "ana.cofre@grupohorizonte.com.ar",
-        "description": "SERVICIOS DE ARQUITECTURA E INGENIERÍA Y SERVICIOS CONEXOS DE ASESORAMIENTO TÉCNICO N.C.P",
-        "type": "Servicios de Arquitectura e Ingeniería"
-      },
-      {
-        "company": "BACCI",
-        "cuit": 30715457314,
-        "contact_name": "Matias Bacci",
-        "phone": 2995040169,
-        "email": "mbacci@estudiobacci.com",
-        "description": "Contabilidad y Auditoria",
-        "type": "Consultoría"
-      },
-      {
-        "company": "RIBEIRO SRL",
-        "cuit": "30-69354380-7",
-        "contact_name": "Juan ponce",
-        "phone": 2995480133,
-        "email": "juan.ponce@ribeirosrl.com.ar",
-        "description": "Movimiento de suelos y obras civiles",
-        "type": "Construcción"
-      },
-      {
-        "company": "PAGSA",
-        "cuit": "30-70958681-1",
-        "contact_name": "Portales Andrea",
-        "phone": "299-420-2656",
-        "email": "facturacion.nqn@pagsaingenieria.com.ar",
-        "description": "Construccion y montajes industriales",
-        "type": "Construcción y Montajes"
-      },
-      {
-        "company": "INCRO.",
-        "cuit": "30-63280953-7",
-        "contact_name": "Matias Crozzoli",
-        "phone": 2974480225,
-        "email": "matias.crozzoli@incro.com.ar",
-        "description": "ingeniería ,desarrollo y construcción dirigidos a las industrias del petróleo, gas, minería y energía eléctrica",
-        "type": "Ingeniería y Construcción"
-      },
-      {
-        "company": "EMERGENCIAS",
-        "cuit": "30-6102986-1",
-        "contact_name": "Christian Salto",
-        "phone": 1140336223,
-        "email": "GPavese@emergencias.com.ar",
-        "description": "Servicios corporativos de salud - Seguridad e Higiene - Brigadas de rescate",
-        "type": "Salud y Seguridad"
-      },
-      {
-        "company": "NUEVA VISION",
-        "cuit": "30-71096262-2",
-        "contact_name": "Malena Canoman",
-        "phone": "299-5803341",
-        "email": "malena.canoman@nuevavisionsrl.com.ar",
-        "description": "Actividades Especializadas de Construcción N.C.P , servicio de transporte automotor de pasajeros N.C.P",
-        "type": "Construcción y Transporte"
-      },
-      {
-        "company": "TRANASPORTE NICOLAS",
-        "cuit": "2o-11864216-4",
-        "contact_name": "Nicolas Labarta",
-        "phone": "299-5353520",
-        "email": "nicolasslabarta@gmail.com",
-        "description": "Servicios de Transporte de pasajeros y cargas.",
-        "type": "Transporte"
-      },
-      {
-        "company": "TRANSPORTE ANGELITO",
-        "cuit": "30-71597812-8",
-        "contact_name": "Mariangel",
-        "phone": 2984217258,
-        "email": "administracion@transporteangelito.com",
-        "description": "SERVICIO DE TRANSPORTE AUTOMOTOR DE PASAJEROS",
-        "type": "Transporte"
-      },
-      {
-        "company": "GRUPO MONTES",
-        "cuit": "30-71055068-5",
-        "contact_name": "Facundo di Salvo",
-        "email": "administracion@grupomontes.com.ar",
-        "description": "Alquiler de vehiculos,Equipo de transporte,Reparacion de motocicletas.",
-        "type": "Alquiler y Reparación"
-      },
-      {
-        "company": "HORMITECH",
-        "cuit": "30-71603954-0",
-        "contact_name": "Luis Barros",
-        "phone": 2995187484,
-        "email": "transfergral@live.com.ar",
-        "description": "Movimiento de suelo, Provicion de hormigon elaborado.",
-        "type": "Construcción y Materiales"
-      },
-      {
-        "company": "LA COLONIA",
-        "cuit": "30-71662096-0",
-        "contact_name": "Oser Luis",
-        "phone": "2994123917",
-        "email": "lacolonia2017@gmail.com",
-        "description": "REPARACION Y MANTENIMIENTO DE MAQUINARIAS Y EQUIPOS",
-        "type": "Reparación y Mantenimiento"
-      },
-      {
-        "company": "BRENT SA",
-        "cuit": "30-71526661-6",
-        "contact_name": "Guillermina Garza",
-        "phone": "299 625-5099",
-        "email": "ggarza@brent-energy.com",
-        "description": "Servicios industriales, acopio y operación en pozo de arena de fractura",
-        "type": "Servicios Industriales"
-      },
-      {
-        "company": "TBQ",
-        "cuit": "33-71175232-9",
-        "contact_name": "Claudio dotti",
-        "phone": 2994110787,
-        "email": "Claudiodotti@tbqsa.com.ar",
-        "description": "Servicio de fluidos, limpiezas quimicas, servicios especiales.",
-        "type": "Servicios Especiales"
-      },
-      {
-        "company": "MONTAJE Y SOLDADURA DON JOSE SRL",
-        "cuit": "30-71022922-4",
-        "contact_name": "Sabrina Vazquez",
-        "phone": "15-6209-2434",
-        "email": "sabrina.vazquez@mysdj.com",
-        "description": "Extracción de petróleo y gas strucción . Construcción de obras de ingeniería civil.",
-        "type": "Construcción e Ingeniería"
-      },
-      {
-        "company": "INDUSLAB",
-        "cuit": "30-70841419-7",
-        "contact_name": "Nestor  Ika",
-        "phone": 2994673619,
-        "email": "induslabgerencia@gmail.com",
-        "description": "Análisis para la Industria Hidrocarburifera",
-        "type": "Servicios de Análisis"
-      },
-      {
-        "company": "RAGUA SRL",
-        "cuit": "30-71037000-8",
-        "contact_name": "Jorge Rubio",
-        "phone": 2994569425,
-        "email": "jorgerubio953@yahoo.com.ar",
-        "description": "ALQUILER DE MAQUINARIA Y EQUIPO N.C.P., SIN PERSONAL",
-        "type": "Alquiler de Maquinaria"
-      },
-      {
-        "company": "HORIZONT HIGH REACH LIMITED",
-        "cuit": "30-70547049-5",
-        "contact_name": "Dorazio Daniel",
-        "phone": "156 7255169",
-        "email": "ddorazio@haulotte.com",
-        "description": "Alquiler de maquinaria y equipos de elevación de materiales y personas",
-        "type": "Alquiler de Equipos"
-      },
-      {
-        "company": "BACKING",
-        "cuit": "30-70954864-2",
-        "contact_name": "Andres Nieto",
-        "phone": "2995 88-2130",
-        "email": "acosta@backingsrl.com.ar",
-        "description": "SERVICIOS DE ARQUITECTURA E INGENIERÍA Y SERVICIOS CONEXOS DE ASESORAMIENTO TÉCNICO N.C.P.",
-        "type": "Servicios de Arquitectura e Ingeniería"
-      },
-      {
-        "company": "FELDSULD SA",
-        "cuit": "30-71471425-9",
-        "contact_name": "Juan Suter",
-        "phone": 2995550914,
-        "email": "juan@feldsud.com.ar",
-        "description": "Transporte de pasajeros NCP",
-        "type": "Transporte"
-      },
-      {
-        "company": "BMK UNELEC",
-        "cuit": "30-70800992-6",
-        "contact_name": "Nestor bonilla",
-        "phone": "299 4671035",
-        "email": "ECARRASCO@BMK.COM.AR",
-        "description": "Tableros eléctricos y de control, integrados y brindamos servicios de puesta en marcha y asistencia técnica",
-        "type": "Servicios Técnicos"
-      },
-      {
-        "company": "TRANSPORTE MITO",
-        "cuit": "30-71696700-6",
-        "contact_name": "Gabriela Cabrera",
-        "phone": 2995105180,
-        "email": "transportemito@gmail.com",
-        "description": "Transporte de pasajeros, alquiler de autos sin chofer.",
-        "type": "Transporte y Alquiler"
-      },
-      {
-        "company": "LOGISTICA Y SERVICIOS FLORES",
-        "cuit": "30-71661988-1",
-        "contact_name": "Reyes Jose Luis",
-        "phone": " 299 5335421",
-        "email": "logisticayserviciosflores@yahoo.com",
-        "description": "Transporte de cargas peligrosas",
-        "type": "Logística y Transporte"
-      },
-      {
-        "company": "NORVIAL ARG",
-        "cuit": "30-71061034-3",
-        "contact_name": "Leonardo Damonte",
-        "phone": "+54 9 3437 60-6730",
-        "email": "norvial@norvial.com",
-        "description": "Construccion de obra civil",
-        "type": "Construcción Civil"
-      },
-      {
-        "company": "AIL IN SERVICES",
-        "cuit": "30-71790469-5",
-        "contact_name": "Nicolas Platon",
-        "phone": "299 515 5728",
-        "email": "http://www.allinservicios.com.ar/",
-        "description": "Reparacion y mantenimiento de equipos petroleros",
-        "type": "Reparación y Mantenimiento"
-      },
-      {
-        "company": "NEO GROUP SAS",
-        "cuit": "30-71847978-5",
-        "contact_name": "Natalia Molina",
-        "phone": " 2995 31-0544",
-        "email": ": administracion@neogroup.ar",
-        "description": "SERVICIOS DE PULVERIZACIÓN, DESINFECCIÓN Y FUMIGACIÓN TERRESTRE",
-        "type": "Servicios de Desinfección"
-      },
-      {
-        "company": "MASUR SA",
-        "cuit": "30-71486931-7",
-        "contact_name": "Martin Sastre",
-        "phone": 2994583680,
-        "email": "proveedores@masur.com.ar",
-        "description": "SERVIDOS DE APOYO PARA LA EXTRACCIÓN DE PETRÓLEO Y GAS NATURAL » EXPLOTACIÓN DE MINAS Y CANTERAS",
-        "type": "Servicios Petroleros y Mineros"
-      },
-      {
-        "company": "MARBAR srl",
-        "cuit": "30-67023941-8",
-        "contact_name": "Ana veronica rios",
-        "phone": " (299) 444-0103",
-        "email": "VERONICA.RIO@marbar.com.ar",
-        "description": "Fluidos de Perforacion & Workover",
-        "type": "Servicios Petroleros"
-      },
-      {
-        "company": "CEPIEM",
-        "cuit": "30-71444053-1",
-        "contact_name": "Francisco Bahern",
-        "phone": 2995352700,
-        "email": "francisco@cepiem.com.ar",
-        "description": "Manteniemiento, Obras civiles y Electricas.",
-        "type": "Servicios de Mantenimiento"
-      }
-    ]
+      "description": "Servicios de gestión y logística para el transporte de mercaderías."
+    },
+    {
+      "company": "MARPETROL",
+      "type": "Operación y Mantenimiento",
+      "cuit": "30-71826165-8",
+      "contact_name": "Sandro Mesplatere",
+      "phone": "2995 55-8182",
+      "email": "smesplatere@marpetrol.com.ar",
+      "description": "Operación y mantenimiento de yacimientos hidrocarburíferos."
+    },
+    {
+      "company": "PLUSWELD SA",
+      "type": "Fabricación",
+      "cuit": "30-71665896-8",
+      "contact_name": "Soledad Sanchez",
+      "phone": "2613 01-7655",
+      "email": "soledad.sanchez@plusweld.com",
+      "description": "Fabricación de maquinaria y estructuras."
+    },
+    {
+      "company": "GRUPO HORIZONTE",
+      "type": "Servicios de Arquitectura e Ingeniería",
+      "cuit": "30-70969436-3",
+      "contact_name": "Ana Cofre",
+      "phone": "2994 68-4656",
+      "email": "ana.cofre@grupohorizonte.com.ar",
+      "description": "Servicios de arquitectura e ingeniería."
+    },
+    {
+      "company": "BACCI",
+      "type": "Consultoría",
+      "cuit": "30715457314",
+      "contact_name": "Matias Bacci",
+      "phone": "2995040169",
+      "email": "mbacci@estudiobacci.com",
+      "description": "Contabilidad y auditoría."
+    },
+    {
+      "company": "RIBEIRO SRL",
+      "type": "Construcción",
+      "cuit": "30-69354380-7",
+      "contact_name": "Juan Ponce",
+      "phone": "2995480133",
+      "email": "juan.ponce@ribeirosrl.com.ar",
+      "description": "Movimiento de suelos y obras civiles."
+    },
+    {
+      "company": "PAGSA",
+      "type": "Construcción y Montajes",
+      "cuit": "30-70958681-1",
+      "contact_name": "Portales Andrea",
+      "phone": "299-420-2656",
+      "email": "facturacion.nqn@pagsaingenieria.com.ar",
+      "description": "Construcción y montajes industriales."
+    },
+    {
+      "company": "GINOMAC",
+      "type": "Inspección y Capacitación",
+      "cuit": "30-71594244-1",
+      "contact_name": "Ricardo Blanco",
+      "phone": "2996 21-9783",
+      "email": "ricardo.blanco@gsneuquen.com",
+      "description": "Capacitación y certificación de operadores."
     }
+  ]
+}
