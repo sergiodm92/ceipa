@@ -10,7 +10,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "Empresas asociadas",
-    path: "/about",
+    path: "/associated-companies",
     newTab: false,
   },
   {
@@ -22,14 +22,14 @@ const menuData: Menu[] = [
   {
     id: 3,
     title: "Solicitud de ingreso",
-    path: "/contact",
+    path: "/request",
     newTab: false,
   },
-  {
-    id: 4,
-    title: "Contacto",
-    path: "/contact",
-    newTab: false,
-  },
+  // {
+  //   id: 4,
+  //   title: "Contacto",
+  //   path: "/contact",
+  //   newTab: false,
+  // },
 ];
 export default menuData;
