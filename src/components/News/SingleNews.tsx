@@ -1,30 +1,32 @@
+"use client";
+
 import { News } from "@/types/news";
 import Image from "next/image";
-const starIcon = (
-  <svg width="18" height="16" viewBox="0 0 18 16" className="fill-current">
-    <path d="M9.09815 0.361679L11.1054 6.06601H17.601L12.3459 9.59149L14.3532 15.2958L9.09815 11.7703L3.84309 15.2958L5.85035 9.59149L0.595291 6.06601H7.0909L9.09815 0.361679Z" />
-  </svg>
-);
+import { useRouter } from "next/navigation";
 
 const SingleNews = ({ news }: { news: News }) => {
-  const { title, summary, date, content, image, id } = news;
+
+  const router = useRouter();
+
+
+  const { title, summary, date, content, image, id, autor } = news;
 
   return (
-    <div className="w-full">
-      <div className="rounded-sm bg-white p-8 shadow-two duration-300 hover:shadow-one dark:bg-dark dark:shadow-three dark:hover:shadow-gray-dark lg:px-5 xl:px-8">
-        <div className="mb-5 flex items-center space-x-1">{title}</div>
+    <div className="relative flex flex-col w-full min-w-[22rem]" onClick={() => router.push(`/news/${id}`)}>
+      <div className="h-[18rem] dark:bg-dark bg-white">
+
+        <img src={image} alt={title} />
+      </div>
+      <div className="flex flex-col items-center justify-between rounded-sm bg-white p-8 shadow-two duration-300 hover:shadow-one dark:bg-dark dark:shadow-three dark:hover:shadow-gray-dark lg:px-5 xl:px-8 h-[22rem]">
+        <h2 className="mb-5 flex items-center space-x-1 text-lg font-bold">{title}</h2>
         <p className="mb-8 border-b border-body-color border-opacity-10 pb-8 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-10 dark:text-white">
-          “{content}
+          {summary.slice(0, 200)}...
         </p>
-        <div className="flex items-center">
-          <div className="relative mr-4 h-[50px] w-full max-w-[50px] overflow-hidden rounded-full">
-            <Image src={image} alt={title} fill />
-          </div>
-          <div className="w-full">
-            <h3 className="mb-1 text-lg font-semibold text-dark dark:text-white lg:text-base xl:text-lg">
-              {summary}
-            </h3>
-            <p className="text-sm text-body-color">{date}</p>
+        <div className="absolute bottom-5 left-5 flex items-center justify-between w-full">
+          <div className="w-full ">
+            <p className="mb-1  text-dark dark:text-white lg:text-base xl:text-sm">
+              {"Creado por " + autor + " el " + date}
+            </p>
           </div>
         </div>
       </div>

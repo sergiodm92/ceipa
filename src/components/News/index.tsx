@@ -1,39 +1,13 @@
 import { News } from "@/types/news";
 import SectionTitle from "../Common/SectionTitle";
 import SingleNews from "./SingleNews";
+import newsDataJson from "@/data/news.json";
 
 
-const newsData: News[] = [
-  {
-    id: 1,
-    title: "Musharof Chy",
-    summary: "Founder @TailGrids",
-    content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
-    date: "12th Feb, 2021",
-  },
-  {
-    id: 2,
-    title: "Musharof Chy",
-    summary: "Founder @TailGrids",
-    content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
-    date: "12th Feb, 2021",
-  },
-  {
-    id: 3,
-    title: "Musharof Chy",
-    summary: "Founder @TailGrids",
-    content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
-    date: "12th Feb, 2021",
-  },
-];
+const newsData: News[] = newsDataJson.data;
 
-const Testimonials = () => {
+
+const NewsComponent = () => {
   return (
     <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
@@ -43,7 +17,7 @@ const Testimonials = () => {
           center
         />
 
-        <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-x-8 gap-y-10 md:grid-cols-2  lg:grid-cols-3">
           {newsData.map((news) => (
             <SingleNews key={news.id} news={news} />
           ))}
@@ -181,4 +155,4 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;
+export default NewsComponent;

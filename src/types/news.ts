@@ -5,4 +5,5 @@ export interface News {
     content: string;
     image: string
     date: string;
+    autor: string;
   }
